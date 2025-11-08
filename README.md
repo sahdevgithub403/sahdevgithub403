@@ -1,5 +1,8 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00A9FF;">Sahdev Puran</span> </h1>
-<h3 align="center">🚀 Full Stack Developer | Java • React • Spring Boot • DevOps Enthusiast</h3>
+<!-- Animated & Interactive GitHub Profile README for Sahdev Puran -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A9FF&center=true&vCenter=true&width=700&lines=Hey+There!+👋+I'm+Sahdev+Puran;Full+Stack+Developer+💻;Java+%7C+React+%7C+Spring+Boot+%7C+DevOps;Passionate+about+Building+and+Automating+Things!">
+</h1>
 
 <p align="center">
   <a href="mailto:sahdevpuran192@gmail.com"><img src="https://img.shields.io/badge/Email-sahdevpuran192@gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -10,50 +13,47 @@
 ---
 
 ## 🌟 About Me
-🎯 Passionate **Full Stack Developer** skilled in crafting scalable, high-performance web apps.  
-💡 Experienced with **React.js**, **Spring Boot**, and **MySQL**, along with DevOps tools like **Docker**, **Jenkins**, and **Kubernetes**.  
-🧠 Strong foundation in **Data Structures & Algorithms**, problem-solving, and system design.  
-🔥 Currently exploring **Microservices Architecture & Cloud Deployment**.  
+
+🎯 Full Stack Developer skilled in **React.js**, **Spring Boot**, and **MySQL**  
+⚙️ Experienced in **Docker, Jenkins, Kubernetes**, and **Microservices Architecture**  
+💡 Love solving **DSA problems** & optimizing performance  
+🚀 Building projects that are both **scalable** and **impactful**  
+
+> *"Turning coffee ☕ into scalable code and creative solutions!"*
 
 ---
 
-## 💼 Projects
+## 🚀 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,docker,kubernetes,git,github,postman,jenkins,maven,linux,vscode,intellij" />
+</p>
+
+---
+
+## 💼 Featured Projects
 
 ### 🧑‍🏫 [Mentoring Application](https://github.com/sahdevgithub403/mentor_frontend)
-> A full-stack platform enabling mentors and students to connect, schedule sessions, and exchange feedback.  
-🔹 **Stack:** React.js, Spring Boot, MySQL, JWT  
-🔹 Role-based authentication | Secure APIs | Optimized backend performance  
-
----
+> 🔐 Role-based mentoring platform with JWT auth and session management.  
+💻 *React.js + Spring Boot + MySQL*  
+✨ Responsive UI | Secure APIs | Optimized backend performance  
 
 ### 🏦 [Banking Management System](https://github.com/sahdevgithub403/BankingSystem-RGSDSA-Bank)
-> A Java + MySQL banking system handling deposits, withdrawals, and balance tracking.  
-🔹 **Stack:** Java, JDBC, MySQL  
-🔹 Robust validation | Transaction management | Clean modular design  
+> 💸 Modular banking system supporting deposits, withdrawals, and balance tracking.  
+🧩 *Java + JDBC + MySQL*  
+🛡️ Robust validation | Transaction management | Clean architecture  
 
 ---
 
-## 🧠 Tech Arsenal
-
-| Category | Skills |
-|-----------|--------|
-| **Languages** | Java (Core + Advanced), JavaScript (ES6), C, SQL |
-| **Frameworks** | Spring Boot, React.js, Angular, Tailwind CSS |
-| **DevOps Tools** | Docker, Jenkins, Kubernetes (Minikube), Maven |
-| **Database** | MySQL |
-| **Other Tools** | Git, GitHub, Postman, VS Code, IntelliJ, STS |
-| **Core CS** | DSA, OS, OOP, DBMS, CN, Microservices |
+## 📜 Certifications
+🎓 **Data Structures & Algorithms** – GeeksforGeeks (2025)  
+🏅 **TCS ION Career Edge – Young Professional** (2025)  
+💻 **Deloitte Technology Job Simulation – Forage** (2025)
 
 ---
 
-## 🧾 Certifications
-🎓 **Data Structures & Algorithms** – GeeksforGeeks & Centurion University (May 2025)  
-💼 **TCS ION Career Edge – Young Professional** (May 2025)  
-💻 **Deloitte Technology Job Simulation – Forage** (Oct 2025)
+## 📊 GitHub Analytics
 
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahdevgithub403&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
@@ -68,6 +68,28 @@
 
 ---
 
+## 🌀 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahdevgithub403/sahdevgithub403/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎬 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahdevgithub403&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+## 🧠 Fun Facts
+- 💬 I love discussing ideas about **tech, AI, and open source**
+- ⚙️ Always experimenting with **new architectures**
+- 🎯 Goal: Contribute to **Spring / React open-source communities**
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:sahdevpuran192@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
@@ -77,8 +99,9 @@
 
 ---
 
-## ✨ Fun Fact
-> “I don’t just write code — I build systems that solve problems and inspire creativity.” 😎
+<h3 align="center">✨ "Keep Learning. Keep Building. Keep Growing." ✨</h3>
 
----
-⭐ **If you like my work, don’t forget to star the repositories!**  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sahdevgithub403?label=Followers&style=social">
+  <img src="https://komarev.com/ghpvc/?username=sahdevgithub403&color=blue&style=flat-square">
+</p>
