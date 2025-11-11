@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:sahdevpuran192@gmail.com"><img src="https://img.shields.io/badge/Email-sahdevpuran192@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:sahdevpuran192@gmail.com"><img src="https://img.shields.io/badge/Email-sahdeva403@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/sahdev-puran403"><img src="https://img.shields.io/badge/LinkedIn-Sahdev%20Puran-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/sahdevgithub403"><img src="https://img.shields.io/badge/GitHub-sahdevgithub403-black?style=flat-square&logo=github"></a>
 </p>
@@ -92,7 +92,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:sahdevpuran192@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
+  <a href="mailto:sahdeva403@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/sahdev-puran403"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/sahdevgithub403"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/></a>
 </p>
