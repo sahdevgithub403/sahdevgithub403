@@ -36,29 +36,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahdevgithub403&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahdevgithub403&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🌀 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahdevgithub403/sahdevgithub403/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🎬 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahdevgithub403&theme=tokyo-night" alt="activity graph"/>
-</p>
-
----
 
 ## 🧠 Fun Facts
 - 💬 I love discussing ideas about **tech, AI, and open source**
