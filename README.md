@@ -29,29 +29,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,docker,kubernetes,git,github,postman,jenkins,maven,linux,vscode,intellij" />
 </p>
 
----
-
-## 💼 Featured Projects
-
-### 🧑‍🏫 [Mentoring Application](https://github.com/sahdevgithub403/mentor_frontend)
-> 🔐 Role-based mentoring platform with JWT auth and session management.  
-💻 *React.js + Spring Boot + MySQL*  
-✨ Responsive UI | Secure APIs | Optimized backend performance  
-
-### 🏦 [Banking Management System](https://github.com/sahdevgithub403/BankingSystem-RGSDSA-Bank)
-> 💸 Modular banking system supporting deposits, withdrawals, and balance tracking.  
-🧩 *Java + JDBC + MySQL*  
-🛡️ Robust validation | Transaction management | Clean architecture  
-
----
-
-## 📜 Certifications
-🎓 **Data Structures & Algorithms** – GeeksforGeeks (2025)  
-🏅 **TCS ION Career Edge – Young Professional** (2025)  
-💻 **Deloitte Technology Job Simulation – Forage** (2025)
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
