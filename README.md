@@ -1,7 +1,8 @@
 <!-- Animated & Interactive GitHub Profile README for Sahdev Puran -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A9FF&center=true&vCenter=true&width=700&lines=Hey+There!+👋+I'm+Sahdev+Puran;Full+Stack+Developer+💻;Java+%7C+React+%7C+Spring+Boot+%7C+DevOps;Passionate+about+Building+and+Automating+Things!">
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A9FF&center=true&vCenter=true&width=700&lines=Hey+There!+👋+I'm+Sahdev+Puran;Full+Stack+Developer+💻;Java+%7C+React+%7C+Spring+Boot+%7C+DevOps;Passionate+about+Building+and+Automating+Things!"> -->
+  <h>Hey There, I'm Sahdev Puran</h>
 </h1>
 
 <p align="center">
